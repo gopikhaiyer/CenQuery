@@ -8,3 +8,53 @@ Find the total number of Jains in Maharashtra who aren't working.
 How many villagers in West Bengal speak Bengali?
 Which state has a larger Sikh population: Punjab or Haryana?
 What is the difference between male and female literacy numbers for Hindus in India?
+Which states have the biggest population overall? Rank them from highest to lowest.
+Where do most rural people live? Show me the top 5 states.
+Which states have the largest urban population? Give me the top 5.
+Which states have more women than men overall?
+Is the gender balance different in villages compared to cities? Show states where rural and urban sex ratios differ a lot.
+Which age groups make up most of India’s population? Show the top 3.
+How does the population break down by age in each state for rural and urban areas?
+Where do most young children live in rural areas? Show the state with the highest number of kids aged 0–6.
+In each state, what percentage of the population is female?
+In rural areas, which age group dominates each state’s population?
+Which states have more people living in cities than villages?
+In which states do villages have a much larger population than cities?
+Which state has the highest number of men overall?
+Which state has the highest number of women overall?
+Where is the gender gap the biggest overall?
+Which states have a very young population compared to older people?
+Which states have a large elderly population?
+In urban areas, which states have the highest population?
+In rural areas, which states have the highest population?
+Which states have a more balanced population between men and women?
+Which states have the smallest population overall?
+Which states are mostly rural in terms of population?
+Which states are mostly urban in terms of population?
+Where do more women live than men in villages?
+Where do more women live than men in cities?
+Which states have a high number of children overall?
+Which states have fewer elderly people compared to others?
+In which states is the rural population much higher than the urban population?
+In which states is the urban population much higher than the rural population?
+Which states have almost the same number of men and women?
+Which states have the lowest rural population?
+Which states have the lowest urban population?
+Where do most elderly people live?
+Which states have more elderly people than children?
+Which states have a higher male population in cities?
+Which states have a higher female population in villages?
+In which states do cities dominate the population the most?
+In which states do villages dominate the population the most?
+Which states have the highest population of working-age people?
+Which states have very small differences between rural and urban population sizes?
+Which states have the highest rural population overall?
+Which states have the highest urban population overall?
+Where is the difference between male and female population the smallest?
+Which states have a very high number of women compared to men?
+Which states have a very high number of men compared to women?
+Which states have a large share of children in their population?
+Which states have a large share of elderly people?
+Which states have more people living in rural areas than urban areas?
+Which states have more people living in urban areas than rural areas?
+Which states have a fairly even split between rural and urban population?
